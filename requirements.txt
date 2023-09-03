@@ -1,3 +1,4 @@
 nose
+pyyaml
 sphinx
 sphinx_rtd_theme
